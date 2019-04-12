@@ -1,5 +1,7 @@
-# EMMA
+### EMMA
 
-Maindful Active Learning
+### Entropy-Memory Maximization Algorithm
 
-Entropy-Memory Maximization
+
+### Mindful Active Learning
+
