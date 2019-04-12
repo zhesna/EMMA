@@ -2,4 +2,4 @@
 
 Maindful Active Learning
 
-Memory-Entropy Maximization
+Entropy-Memory Maximization
