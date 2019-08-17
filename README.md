@@ -1,8 +1,8 @@
 # EMMA (Entropy-Memory Maximization Algorithm)
 
-#### Mindful Active Learning
+### Mindful Active Learning
 
-## Citation:
+### Citation:
 
 - Z. Esna Ashari & H. Ghasemzadeh, “Mindful Active Learning”, The 28th International Joint Conference on Artificial Intelligence (IJCAI), August 10-16, 2019, Macao, China.
 
