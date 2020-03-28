@@ -1,6 +1,9 @@
 # EMMA (Entropy-Memory Maximization Algorithm)
+This repository contains the software for EMMA as a framework for mindful active learning. 
 
 ### Mindful Active Learning
+
+A novel active learning framework for activity  recognition  using  wearable  sensors.   Our work is unique in that it takes physical and cognitive limitations of the oracle into account when selecting sensor data to be annotated by the oracle. We introduce the notion of mindful active learning and propose a computational framework, called EMMA, to maximize the active learning performance taking informativeness of sensor data,  query  budget,  and  human  memory  into  account. 
 
 ### Citation:
 
