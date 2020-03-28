@@ -8,5 +8,5 @@
 
 https://www.ijcai.org/proceedings/2019/0314.pdf
 
-http://epsl.eecs.wsu.edu/wp-content/uploads/2019/05/IJCAI2019_ZhilaEsnaAshari.pdf
+https://www.researchgate.net/publication/334843949_Mindful_Active_Learning
 
