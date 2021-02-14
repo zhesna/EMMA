@@ -14,6 +14,7 @@ https://www.ijcai.org/proceedings/2019/0314.pdf
 - Zhila Esna Ashari, Naomi Chaytor, Diane J. Cook & Hassan Ghasemzadeh, “Memory-Aware Active Learning in Mobile Sensing Systems”, IEEE Transactions on Mobile Computing (IEEE-TMC), Jun. 2020. 
 
 https://ieeexplore.ieee.org/abstract/document/9122450
+
 https://www.researchgate.net/publication/342976852_Memory-Aware_Active_Learning_in_Mobile_Sensing_Systems
 
 
